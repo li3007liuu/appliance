@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="MainLeftMargin">24dp</dimen>
+    <dimen name="TopButtontopMargin">10.8dp</dimen>
+    <dimen name="ButtontopMargin">9.32dp</dimen>
+    <dimen name="Dqjclefttext">19.44dp</dimen>
+    <dimen name="Dqjctoptext">4.32dp</dimen>
+    <dimen name="Dqjcleftlist">25.92dp</dimen>
+    <dimen name="DqjcInlistleft">21.6dp</dimen>
+    <dimen name="Buttonleftmargin">16.2dp</dimen>
+    <dimen name="buttonlistleftmargin">16dp</dimen>
+</resources>

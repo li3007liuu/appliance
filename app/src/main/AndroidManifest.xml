@@ -1,0 +1,66 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.splxtech.appliance">
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/applogo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".view.StartActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".view.MainActivity">
+
+        </activity>
+        <activity android:name=".view.LjglActivity">
+
+        </activity>
+        <activity android:name=".view.DlcsActivity">
+
+        </activity>
+        <activity android:name=".chart.BxtActivity">
+
+        </activity>
+        <activity android:name=".chart.XbfxActivity">
+
+        </activity>
+        <activity android:name=".view.DqsjkListActivity">
+
+        </activity>
+        <activity android:name=".view.XblbActivity">
+
+        </activity>
+        <activity android:name=".chart.DqsjdissActivity">
+
+        </activity>
+        <activity android:name=".view.DebugTestActivity">
+
+        </activity>
+        <activity android:name=".chart.GhtjActivity">
+
+        </activity>
+        <activity android:name=".chart.GhtjscActivity">
+
+        </activity>
+        <activity android:name=".view.CljyActivity">
+
+        </activity>
+        <service android:name=".service.NetService">
+
+        </service>
+        <service android:name=".service.DbdaoService">
+
+        </service>
+
+    </application>
+
+</manifest>

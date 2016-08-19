@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleHeight">56dp</dimen>
+    <dimen name="ctl1Height">54dp</dimen>
+    <dimen name="botomHeight">54dp</dimen>
+    <dimen name="botomHeight2">40dp</dimen>
+    <dimen name="ctl2Height">40dp</dimen>
+    <dimen name="linewidth">0.3dp</dimen>
+    <dimen name="linewidth2">0.5dp</dimen>
+    <dimen name="bottomlogo">45.36dp</dimen>
+    <dimen name="dqjclistHeight">80dp</dimen>
+    <dimen name="dqjcimageHeight">48dp</dimen>
+    <dimen name="titlebuttonHeight">60dp</dimen>
+    <dimen name="titlebuttonimageHeight">26dp</dimen>
+    <dimen name="ctl3Height">35dp</dimen>
+</resources>

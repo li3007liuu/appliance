@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/text_dqsjdis_itemtitle"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ctl3Height"
+        android:paddingTop="@dimen/textPading1"
+        android:background="@color/colorpri1"
+        android:textColor="@color/colorback3"
+        android:textSize="@dimen/title2"
+        android:text="平均连接时间"
+        android:gravity="center"
+        android:layout_marginLeft="@dimen/linewidth2"
+        android:layout_marginRight="@dimen/linewidth2"
+        android:layout_marginTop="@dimen/linewidth2"
+        />
+    <TextView
+        android:id="@+id/text_dqsjdis_itemcontent"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ctl3Height"
+        android:textColor="@color/colorback2"
+        android:textSize="@dimen/title2"
+        android:text="27m51s"
+        android:paddingBottom="@dimen/textPading1"
+        android:gravity="center"
+        android:background="@color/colorpri1"
+        android:layout_marginLeft="@dimen/linewidth2"
+        android:layout_marginRight="@dimen/linewidth2"
+        android:layout_marginBottom="@dimen/linewidth2"
+        />
+
+</LinearLayout>

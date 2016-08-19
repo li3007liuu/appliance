@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorpri1"/>
+    <corners android:topLeftRadius="@dimen/qqbutton_corner" android:bottomLeftRadius="@dimen/qqbutton_corner"/>
+    <stroke android:width="@dimen/qqbuttonstroke" android:color="@color/colorTitle"/>
+</shape>

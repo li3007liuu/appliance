@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title1">22sp</dimen>
+    <dimen name="title2">18sp</dimen>
+    <dimen name="title3">17sp</dimen>
+    <dimen name="titlemin">10sp</dimen>
+    <dimen name="textsize1">112sp</dimen>
+    <dimen name="textsize2">56sp</dimen>
+    <dimen name="textsize3">45sp</dimen>
+    <dimen name="textsize4">34sp</dimen>
+    <dimen name="textsize5">24sp</dimen>
+    <dimen name="textsize6">20sp</dimen>
+    <dimen name="textsize7">16sp</dimen>
+    <dimen name="textsize8">14sp</dimen>
+    <dimen name="textsize9">12sp</dimen>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/colorTitle"
+        android:paddingTop="12dp"
+        android:paddingLeft="12dp"
+        android:text="当月功耗"
+        android:textColor="@color/colorpri1"
+        android:textSize="@dimen/textsize6"
+        />
+    <TextView
+        android:id="@+id/text_ghtjscf_dygh"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/colorTitle"
+        android:paddingLeft="12dp"
+        android:text="388"
+        android:textColor="@color/colorpri1"
+        android:textSize="@dimen/textsize2"
+        />
+</LinearLayout>
